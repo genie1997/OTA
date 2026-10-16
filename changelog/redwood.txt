@@ -1,0 +1,10 @@
+16-Oct-2026
+- Initial Infinity-X 4.1 build, Android 17
+- Shipped with Vajra 4.1 kernel, KernelSU-Next and SuSFS built in
+- Dolby Atmos: Xiaomi Dolby app on the Motorola DAX engine, spatializer included
+- LHDC v5 Bluetooth audio
+- Rich haptics for every vibration effect
+- Stronger feel for toggles and system effects
+- MIUI Camera, everything works including filters
+- GameSpace from AxionAOSP, high touch sampling for any app with its option
+- Charging bypass support
