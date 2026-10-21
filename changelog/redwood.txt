@@ -1,3 +1,8 @@
+21-Oct-2026
+- Synced with the latest Infinity-X source
+- Charging limit now goes from 80 to 100%
+- Default vibration strength is now medium
+
 16-Oct-2026
 - Initial Infinity-X 4.1 build, Android 17
 - Shipped with Vajra 4.1 kernel, KernelSU-Next and SuSFS built in
