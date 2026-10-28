@@ -1,5 +1,5 @@
 27-Oct-2026
-- Initial release of Vajra-Neo 1.0, a new GKI kernel with MGLRU, per-VMA locks, the EEVDF scheduler, sched_ext, zram with lz4 and zstd, Clang CFI and shadow call stack
+- Initial release of Vajra-Neo 1.0, a new GKI-based kernel with MGLRU, per-VMA locks, the EEVDF scheduler, sched_ext, zram with lz4 and zstd, Clang CFI and shadow call stack
 - Root with any manager you like
 - Blur is on across the system, updating from an older build? turn on the Blur tile once
 - Recording in other apps no longer loses the mic after WhatsApp used it
