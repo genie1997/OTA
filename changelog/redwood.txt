@@ -1,3 +1,11 @@
+30-Oct-2026
+- Synced with the latest Infinity-X source (29 October)
+- Vajra-Neo 1.1 kernel
+- Lines and flicker in some games are gone
+- Hey Google works, the search bar mic on the home screen opens Google voice search too
+- Torch strength slider works
+- Digital USB-C earphones and DACs work
+
 27-Oct-2026
 - Initial release of Vajra-Neo 1.0, a new GKI-based kernel with MGLRU, per-VMA locks, the EEVDF scheduler, sched_ext, zram with lz4 and zstd, Clang CFI and shadow call stack
 - Root with any manager you like
