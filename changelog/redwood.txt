@@ -1,3 +1,12 @@
+06-Nov-2026
+- Vajra-Neo 2.0 kernel
+- Leica camera with Leica looks and watermark
+- Classic video filters work on both cameras
+- Camera torch works after using the quick settings torch
+- Slow motion recording works
+- GameSpace no longer crashes when a game starts
+- Sound keeps working after a soft reboot
+
 30-Oct-2026
 - Synced with the latest Infinity-X source (29 October)
 - Vajra-Neo 1.1 kernel
