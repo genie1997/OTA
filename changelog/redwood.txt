@@ -1,3 +1,8 @@
+07-Nov-2026
+- Infinity-X 4.2, synced with the latest source (7 November)
+- November 2026 security patch
+- Slow motion videos now play in slow motion
+
 06-Nov-2026
 - Vajra-Neo 2.0 kernel
 - Leica camera with Leica looks and watermark
