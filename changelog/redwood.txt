@@ -1,3 +1,13 @@
+13-Nov-2026
+- Synced with the latest Infinity-X source (13 November)
+- Vajra-Neo 2.1 kernel
+- Wi-Fi calling works
+- VoLTE and Wi-Fi calling options show up for every carrier
+- Apps and games no longer close on their own, mostly seen on 6 GB phones
+- Reality Display slider is back
+- Blur starts off on new installs, turn it on from the Blur tile
+- Per-app refresh rate no longer offers 90 Hz, the screen only runs at 60 and 120
+
 07-Nov-2026
 - Infinity-X 4.2, synced with the latest source (7 November)
 - November 2026 security patch
