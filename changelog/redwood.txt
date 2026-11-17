@@ -1,3 +1,10 @@
+17-Nov-2026
+- Synced with the latest Infinity-X source (17 November), new Updater, Phone and Messages look
+- Vajra-Neo 2.2.1 kernel
+- Charging limit and bypass charging work now
+- Settings search finds everything again after an update
+- With Touch to unlock anytime on, the finger that turns the screen off no longer unlocks it again
+
 13-Nov-2026
 - Synced with the latest Infinity-X source (13 November)
 - Vajra-Neo 2.1 kernel
